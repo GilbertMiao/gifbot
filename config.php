@@ -13,7 +13,7 @@ webhook_token:	(String) The url from your incoming webhook integration.
 
 */
 
-c::set('webhook_url', 'http://your_unique_webhook_url');
+c::set('webhook_url', 'https://hooks.slack.com/services/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');
 
 /*
 
